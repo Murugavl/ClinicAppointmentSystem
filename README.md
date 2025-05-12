@@ -52,18 +52,18 @@ A **console-based Java application** designed to manage appointments, doctors, p
 
 ## 📂 Project Structure
 
-- ClinicAppointmentSystem/
-- ├── .idea/ # IDE settings (ignore)
-- ├── src/
-- │ ├── main/
-- │ │ ├── Admin.java # Admin functions
-- │ │ ├── Doctor.java # Doctor functionalities
-- │ │ ├── Patient.java # Patient functionalities
-- │ │ ├── Login.java # Login and role authentication
-- │ │ ├── Booking.java # Booking-related operations
-- │ │ └── ClinicAppointmentSystem.java # Main class (entry point)
-- ├── ClinicAppointmentSystem.iml # IntelliJ project file
-- └── .gitignore # Git ignore rules
+-ClinicAppointmentSystem/
+-├── .idea/ # IDE settings (ignore)
+-├── src/
+-│ ├── main/
+-│ │ ├── Admin.java # Admin functions
+-│ │ ├── Doctor.java # Doctor functionalities
+-│ │ ├── Patient.java # Patient functionalities
+-│ │ ├── Login.java # Login and role authentication
+-│ │ ├── Booking.java # Booking-related operations
+-│ │ └── ClinicAppointmentSystem.java # Main class (entry point)
+-├── ClinicAppointmentSystem.iml # IntelliJ project file
+-└── .gitignore # Git ignore rules
 
 
 ---
